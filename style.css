@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Indie+Flower&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Indie+Flower&family=Quicksand:wght@300&display=swap");
+html {
+  box-sizing: border-box;
+  font-family: "Quicksand";
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-family: "Amatic SC", cursive;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+body {
+  text-align: center;
+}
+
+/* index */
+
+.card-container {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  -ms-transform: scale(1.05); /* IE 9 */
+  -webkit-transform: scale(1.05); /* Safari 3-8 */
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 350px;
+  height: 500px;
+  border-radius: 1em;
+  box-shadow: 8px 16px 16px hsl(0deg 0% 0% / 0.25);
+}
