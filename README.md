@@ -12,5 +12,5 @@ A recipe website to demonstrate skills in HTML &amp; CSS
 
 ## Recipe Page
 
-![https://github.com/kennethlorenz/odin-recipes2/blob/main/images/recipe-page1.JPG]
-![https://github.com/kennethlorenz/odin-recipes2/blob/main/images/recipe-page2.JPG]
+![](https://github.com/kennethlorenz/odin-recipes2/blob/main/images/recipe-page1.JPG)
+![](https://github.com/kennethlorenz/odin-recipes2/blob/main/images/recipe-page2.JPG)
