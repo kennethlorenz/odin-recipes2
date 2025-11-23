@@ -8,7 +8,7 @@ A recipe website to demonstrate skills in HTML &amp; CSS
 
 ## Main Menu
 
-![https://github.com/kennethlorenz/odin-recipes2/blob/main/images/mainmenu.JPG]
+![](https://github.com/kennethlorenz/odin-recipes2/blob/main/images/mainmenu.JPG)
 
 ## Recipe Page
 
